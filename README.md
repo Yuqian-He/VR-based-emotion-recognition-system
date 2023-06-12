@@ -5,3 +5,7 @@ In this group project, we worked together as a team to research and develop a vi
 
 ## Process Diagram
 ![](/GroupProject.jpg)
+
+
+https://github.com/Yuqian-He/VR-based-emotion-recognition-system/assets/104955148/03644489-419e-4575-b3f1-3a7fffa115b9
+
